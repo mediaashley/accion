@@ -1,5 +1,4 @@
 #Accion
-======
 
 Accion is an attempt to collate a list of official and/or reconisable accessibility icons, and provide them in SVGs and webfont formats.
 
