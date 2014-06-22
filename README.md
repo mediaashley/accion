@@ -3,9 +3,14 @@
 Accion is an attempt to collate a list of official and/or recognisable accessibility icons, and provide them in SVG and webfont formats.
 
 ##Examples
-- Audio Descriptive
-- Sign Language
-- BSL (British Sign Language)
+- Audio Descriptive symbol
+-- Audio Described performance symbol
+- Captioned symbol
+-- Captioned performance symbol
+- Sign Language symbol
+- BSL (British Sign Language) symbol
+- Sennheiser infrared system
+- Induction loop, switch your hearing aid to 'T'
 - etc.
 
 Whilst some of these may have limited use on the web, there is nothing to stop the font being used for offline applications, and with the uptake of interactive displays, there may be alternative digital uses.
